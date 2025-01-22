@@ -1,0 +1,15 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+
+numpy==1.26.4
+pillow==11.1.0
+torch==2.2.2+cpu
+torchvision==0.17.2+cpu
+
+opencv-python==4.10.0.84
+# opencv-python-headless==4.10.0.84
+
+ultralytics==8.3.61
+requests==2.32.3
+fastapi[standard]==0.115.6
+mangum==0.19.0
+pytest==8.3.4
