@@ -1,5 +1,12 @@
 # Object detection via FastAPI
 
+[![](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/cvachet/object-detection-yolo-fastapi)](https://hub.docker.com/repository/docker/cvachet/object-detection-yolo-fastapi)
+
+![example workflow](https://github.com/clementsan/object_detection_yolo_fastapi/actions/workflows/ci_python.yml/badge.svg)
+![example workflow](https://github.com/clementsan/object_detection_yolo_fastapi/actions/workflows/publish_docker_image.yml/badge.svg)
+
+
 **Aim:** AI-driven object detection via FastAPI (on COCO image dataset)
 
 **Machine learning models:**
